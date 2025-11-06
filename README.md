@@ -2,9 +2,11 @@
 
 I'm a third-year Digital Forensics & Cybersecuirty Student at TU Dublin. I’m always eager to learn new methodologies, explore new tools, and connect with like-minded professionals in the cybersecurity field!
 
-## Technical Skills
+- **💻 Python Practice**  
+  [Google Crash Course on Python](https://github.com/JasonOgwueleka/Google-Crash-Course-on-Python) – My final project and small programs from Google’s Python course.
 
-<a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
+  [Cryptohack CTF practice](https://github.com/Jasonogwueleka/Network-Tools) – Solutions and write-ups for various CryptoHack CTF challenges.
+
 
 ### Programming/Scripting languages
 
