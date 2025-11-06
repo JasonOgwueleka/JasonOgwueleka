@@ -1,6 +1,7 @@
 # Hi, I'm Jason :wave:
 
-A Digital Forensics & Cybersecuirty Student at TU Dublin
+I'm a third-year Digital Forensics & Cybersecuirty Student at TU Dublin
+
 I’m always eager to learn new methodologies, explore new tools, and connect with like-minded professionals in the cybersecurity field!
 
 ## Technical Skills
