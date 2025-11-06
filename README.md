@@ -1,7 +1,6 @@
 # Hi, I'm Jason :wave:
 
-Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
-Always learning. 🤟🏻
+A Digital Forensics & Cybersecuirty Student at TU Dublin
 
 ## Technical Skills
 
