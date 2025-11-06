@@ -1,14 +1,12 @@
 # Hi, I'm Jason :wave:
 
-I'm a third-year Digital Forensics & Cybersecuirty Student at TU Dublin
-
-I’m always eager to learn new methodologies, explore new tools, and connect with like-minded professionals in the cybersecurity field!
+I'm a third-year Digital Forensics & Cybersecuirty Student at TU Dublin. I’m always eager to learn new methodologies, explore new tools, and connect with like-minded professionals in the cybersecurity field!
 
 ## Technical Skills
 
 <a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
-### Programming/Sripting languages
+### Programming/Scripting languages
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
