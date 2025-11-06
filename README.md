@@ -43,34 +43,7 @@ Always learning. 🤟🏻
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
-## ✨ Other things
-
-- Favorite programming language: Rust. :crab:
-- Favorite technology: WebGPU.
-- Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
-
----
-
-<a href="https://www.linkedin.com/in/zach-nguyen">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/zach_duong">
-  <img height="32" align="left" alt="X" src="img/icons/x.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-  <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jasonogwueleka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasonogwueleka/" height="30" width="40" /></a>
+</p>
