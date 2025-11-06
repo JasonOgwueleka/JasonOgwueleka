@@ -3,7 +3,7 @@
 I'm a third-year Digital Forensics & Cybersecuirty Student at TU Dublin. I’m always eager to learn new methodologies, explore new tools, and connect with like-minded professionals in the cybersecurity field!
 
 - **💻 Python Practice**  
-  [Google Crash Course on Python](https://github.com/JasonOgwueleka/Google-Crash-Course-on-Python) – My final project and small programs from Google’s Python course.
+  [Google Crash Course on Python](https://github.com/JasonOgwueleka/Google-Crash-Course-on-Python) – My final project and smaller programs from Google’s Python course.
 
   [Cryptohack CTF practice](https://github.com/Jasonogwueleka/Cryptohack-CTF-Solutions) – Solutions and write-ups for various CryptoHack CTF challenges.
 
