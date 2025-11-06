@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **how to integrate MongoDB into Python applications.**
 
-- 📝 I regularly write articles about my cybersecurity journey on [Medium.com](Medium.com)
-
 - 📫 How to reach me **jasonogwueleka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
