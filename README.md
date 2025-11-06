@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason!</h1>
-<h3 align="center">A results focused & passionate Cybersecurity student</h3>
+<h3 align="center">A Digital Forensics & Cybersecurity student at TU Dublin</h3>
 
 - 🔭 I’m currently working on a **python automation script to simplify Nmap scanning.**
 
