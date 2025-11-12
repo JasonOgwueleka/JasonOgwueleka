@@ -5,7 +5,7 @@ I'm a third-year Digital Forensics & Cybersecuirty Student at TU Dublin. I’m a
 - **💻 Python Practice**  
   [Google Crash Course on Python](https://github.com/JasonOgwueleka/Google-Crash-Course-on-Python) – My final project and smaller programs from Google’s Python course.
 
-  [Python Script for Automating Port Scanning](https://github.com/Jasonogwueleka/PortScanner-Reconnaissance-Project) – Lightweight Python scanner for automated network reconnaissance and JSON-based reporting.
+  [Python Script for Automating Port Scanning](https://github.com/Jasonogwueleka/PortScanner-Reconnaissance-Project) – Python scanner for automated network reconnaissance and JSON-based reporting.
 
   [Cryptohack CTF practice](https://github.com/Jasonogwueleka/Cryptohack-CTF-Solutions) – Solutions and write-ups for various CryptoHack CTF challenges.
   
